@@ -1,0 +1,18 @@
+---
+object: set
+id: 81dd6941-9598-43ab-abd7-fd5f2b71b171
+code: tbng
+name: Born of the Gods Tokens
+uri: https://api.scryfall.com/sets/81dd6941-9598-43ab-abd7-fd5f2b71b171
+scryfall_uri: https://scryfall.com/sets/tbng
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atbng&unique=prints
+released_at: '2014-02-07'
+set_type: token
+card_count: 11
+parent_set_code: bng
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: ths
+block: Theros
+icon_svg_uri: https://svgs.scryfall.io/sets/bng.svg?1694404800
